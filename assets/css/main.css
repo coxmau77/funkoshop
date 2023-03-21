@@ -1,0 +1,24 @@
+/* documentacion google fonts */
+/* https://fonts.google.com/share?selection.family=Raleway:ital,wght@0,300;0,800;1,400 */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,800;1,400&display=swap');
+
+:root {
+    --text-light: white;
+    --bg-dark: #30343F;
+    --primary-clr: #FF4848;
+    --icon-size: 1.5rem;
+}
+
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+}
